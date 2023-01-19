@@ -12,14 +12,14 @@ Lets starts !
 
 Javascript Redirects = If yes, the website use a protection and bots (like in GDPS creation) cannot access to the page.
                        If no, everyone can access to the page.
-                       If its empty, this is unknown for now (because no one tested)
+                       If its written "unknown", this is unknown for now (because no one tested).
                        If its written "probably", the service probably uses redirects.
 
 |    Website name    |    Website URL                       |    Disk Space    |    Bandwidth    |    My rating     |Javascript Redirects|
 |--------------------|--------------------------------------|------------------|-----------------|------------------|--------------------|
 |7mPl(No longer free)|https://7m.pl/                        |3 Gb/Go           |Unlimited        |2/10              |No                  |
 |5vPl                |https://5v.pl/                        |3 Gb/Go           |Unlimited        |3/10              |No                  |
-|FreeHostingEU       |https://www.freehostingeu.com/        |200 Mb/Mo         |4 Gb/Go          |4/10              |                    |
+|FreeHostingEU       |https://www.freehostingeu.com/        |200 Mb/Mo         |4 Gb/Go          |4/10              |Unknown             |
 |EOHost              |https://eohost.com/                   |1 Gb/Go           |5 Gb/Go          |5/10              |Probably            |
 |ByetHost            |https://byet.host/                    |1 Gb/Go           |50 Gb/Go         |6/10              |Yes                 |
 |GoogieHost          |https://googiehost.com/               |1 Gb/Go           |100 Gb/Go        |6/10              |Probably            |
