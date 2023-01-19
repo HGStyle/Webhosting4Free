@@ -26,5 +26,8 @@ Javascript Redirects = If yes, the website use a protection and bots (like in GD
 |PlanetHoster        |https://planethoster.com/World-Lite   |750 Mb/Mo         |Unlimited        |4/10              |Probably            |
 |AwardSpace          |https://awardspace.com/               |1 Gb/Go           |5 Gb/Go          |5/10              |Probably            |
 |InfinityFree        |https://infinityfree.net/             |5 Gb/Go           |Unlimited        |7/10              |Yes                 |
+|000Webhost          |https://000webhost.com/               |300 Mb/Mo         |3 Gb/Go          |5/10              |No                  |
+|FreeHostingNoAds    |https://freehostingnoads.net/         |1 Gb/Go           |5 Gb/Go          |5/10              |Probably            |
+|1-ws                |http://1-ws.com/                      |10 Gb/Go          |Unlimited        |6/10              |Yes                 |
 
 More comming soon™ !
