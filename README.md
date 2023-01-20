@@ -29,5 +29,6 @@ Lets starts !
 |000Webhost          |https://000webhost.com/               |300 Mb/Mo         |3 Gb/Go          |5/10              |No       |
 |FreeHostingNoAds    |https://freehostingnoads.net/         |1 Gb/Go           |5 Gb/Go          |5/10              |No       |
 |1-ws                |http://1-ws.com/                      |10 Gb/Go          |Unlimited        |6/10              |Yes      |
+|AlwaysData          |https://alwaysdata.com/               |100 Mb/Mo         |Unlimited        |7/10              |No       |
 
 More comming soon™ !
