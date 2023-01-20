@@ -15,7 +15,7 @@ Lets starts !
                        If its written "unknown", this is unknown for now (because no one tested).
                        If its written "probably", the service probably uses redirects.
 
-|    Website name    |    Website URL                       |    Disk Space    |    Bandwidth    |    My rating     |Redirects|
+|    Website name    |    Website URL                       |    Disk Space    |Bandwidth / month|    My rating     |Redirects|
 |--------------------|--------------------------------------|------------------|-----------------|------------------|---------|
 |7mPl(No longer free)|https://7m.pl/                        |3 Gb/Go           |Unlimited        |2/10              |No       |
 |5vPl                |https://5v.pl/                        |3 Gb/Go           |Unlimited        |3/10              |No       |
@@ -30,5 +30,8 @@ Lets starts !
 |FreeHostingNoAds    |https://freehostingnoads.net/         |1 Gb/Go           |5 Gb/Go          |5/10              |No       |
 |1-ws                |http://1-ws.com/                      |10 Gb/Go          |Unlimited        |6/10              |Yes      |
 |AlwaysData          |https://alwaysdata.com/               |100 Mb/Mo         |Unlimited        |7/10              |No       |
+|5hark               |http://5hark.net/                     |10 Gb/Go          |100 Gb/Go        |6/10              |Yes      |
+|AcesHost            |http://aceshost.com/                  |1 Gb/Go           |5 Gb/Go          |6/10              |No       |
+
 
 More comming soon™ !
