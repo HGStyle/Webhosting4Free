@@ -33,6 +33,7 @@ Lets starts !
 |5hark               |http://5hark.net/                     |10 Gb/Go          |100 Gb/Go        |6/10              |Yes      |
 |AcesHost            |http://aceshost.com/                  |1 Gb/Go           |5 Gb/Go          |6/10              |No       |
 |FreeWebHostingArea  |http://freewebhostingarea.com/        |1.5 Gb/Go         |Unlimited        |8/10              |No       |
+|AgilityHoster       |https://agilityhoster.com/            |1 Gb/Go           |5 Gb/Go          |6/10              |No       |
 
 
 More comming soon™ !
