@@ -10,7 +10,7 @@ For ever.
 
 Lets starts !
 
-Redirects = If yes, the website use a protection and bots (like in GDPS creation) cannot access to the page.
+Redirects = If yes, the website use a protection and bots (like GD clients in GDPSes) cannot access to the page.
                        If no, everyone can access to the page.
                        If its written "unknown", this is unknown for now (because no one tested).
                        If its written "probably", the service probably uses redirects.
