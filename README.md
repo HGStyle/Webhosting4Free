@@ -32,6 +32,7 @@ Redirects:
 |AgilityHoster       |https://agilityhoster.com/            |1 Gb/Go           |5 Gb/Go          |6/10              |No       |
 |AtSpace             |https://atspace.com/                  |1 Gb/Go           |Unlimited        |7/10              |No       |
 |AlotSpace           |https://alotspace.com/                |1 Gb/Go           |5 Gb/Go          |6/10              |No       |
+|Biz.NF              |https://biz.nf/                       |1 Gb/Go           |5 Gb/Go          |6/10              |No       |
 
 
 More comming soon™ !
