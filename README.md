@@ -1,6 +1,6 @@
 # Webhosting4Free
 
-A list of free hosting services with their caracteristics, plus if they does have any protection from bots.
+A list of free hosting services with their caracteristics, plus if they does have any JavaScript protection from bots.
 
 Redirects:          
 
