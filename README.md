@@ -37,5 +37,6 @@ Redirects:
 |Free4U              |http://free4u.runhosting.net/         |1 Gb/Go           |5 Gb/Go          |6/10              |No       |
 |RunHosting          |https://runhosting.net/               |1 Gb/Go           |5 Gb/Go          |6/10              |No       |
 |FreeHoster          |http://free-hoster.net/               |1 Gb/Go           |50 Gb/Go         |6/10              |Yes      |
+|Cloudy              |http://cloudy.eu.org/                 |1 Gb/Go           |10 Gb/Go         |5/10              |Yes      |
 
 More comming soon™ !
