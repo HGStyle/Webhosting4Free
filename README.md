@@ -33,7 +33,8 @@ Redirects:
 |AtSpace             |https://atspace.com/                  |1 Gb/Go           |Unlimited        |7/10              |No       |
 |AlotSpace           |https://alotspace.com/                |1 Gb/Go           |5 Gb/Go          |6/10              |No       |
 |Biz.NF              |https://biz.nf/                       |1 Gb/Go           |5 Gb/Go          |6/10              |No       |
-|DC7.US              |http://dc7.us/                        |10 Gb/Go          |100 Gb/Go        |6/10              |Yes      |
+|DC7.US              |http://dc7.us/                        |10 Gb/Go          |100 Gb/Go        |7/10              |Yes      |
+|Free4U              |http://free4u.runhosting.net/         |1 Gb/Go           |5 Gb/Go          |6/10              |No       |
 
 
 More comming soon™ !
