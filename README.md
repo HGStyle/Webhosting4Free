@@ -1,14 +1,6 @@
 # Webhosting4Free
 
-A list that contain websites.
-
-For webhosting.
-
-For free.
-
-For ever.
-
-Lets starts !
+A list of free hosting services with their caracteristics, plus if they does have any protection from bots.
 
 Redirects:          
 
