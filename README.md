@@ -14,7 +14,7 @@ Redirects:
 |    Website name    |    Website URL                       |    Disk Space    |Bandwidth / month|    My rating     |Redirects|
 |--------------------|--------------------------------------|------------------|-----------------|------------------|---------|
 |7mPl(No longer free)|https://7m.pl/                        |3 Gb/Go           |Unlimited        |2/10              |No       |
-|5vPl                |https://5v.pl/                        |3 Gb/Go           |Unlimited        |3/10              |No       |
+|5vPl (Poland only)  |https://5v.pl/                        |3 Gb/Go           |Unlimited        |3/10              |No       |
 |FreeHostingEU       |https://www.freehostingeu.com/        |200 Mb/Mo         |4 Gb/Go          |4/10              |No       |
 |EOHost              |https://eohost.com/                   |1 Gb/Go           |5 Gb/Go          |5/10              |No       |
 |ByetHost            |https://byet.host/                    |1 Gb/Go           |50 Gb/Go         |6/10              |Yes      |
