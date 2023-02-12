@@ -10,10 +10,14 @@ For ever.
 
 Lets starts !
 
-Redirects = If yes, the website use a protection and bots (like GD clients in GDPSes) cannot access to the page.
+Redirects:          
+
+                       If yes, the website use a protection and bots (like GD clients in GDPSes) cannot access to the page.
+
                        If no, everyone can access to the page.
+                       
                        If its written "unknown", this is unknown for now (because no one tested).
-                       If its written "probably", the service probably uses redirects.
+                       
 
 |    Website name    |    Website URL                       |    Disk Space    |Bandwidth / month|    My rating     |Redirects|
 |--------------------|--------------------------------------|------------------|-----------------|------------------|---------|
@@ -35,6 +39,7 @@ Redirects = If yes, the website use a protection and bots (like GD clients in GD
 |FreeWebHostingArea  |http://freewebhostingarea.com/        |1.5 Gb/Go         |Unlimited        |8/10              |No       |
 |AgilityHoster       |https://agilityhoster.com/            |1 Gb/Go           |5 Gb/Go          |6/10              |No       |
 |AtSpace             |https://atspace.com/                  |1 Gb/Go           |Unlimited        |7/10              |No       |
+|AlotSpace           |https://alotspace.com/                |1 Gb/Go           |5 Gb/Go          |6/10              |No       |
 
 
 More comming soon™ !
