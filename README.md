@@ -50,6 +50,9 @@ If its written "unknown", this is unknown for now (because no one tested).
 |V90.US              |http://v90.us/                                |10 Gb             |100 Gb           |7/10              |Yes      |
 |Webhosting-For-Free |http://webhosting-for-free.com/               |100 Mb            |1 Gb             |5/10              |Unknown  |
 |FreePHP             |http://freephp.buyhostnow.com/                |1 Gb              |5 Gb             |6/10              |No       |
+|ROYAL Web Hosting   |http://royalwebhosting.net/                   |1 Gb              |5 Gb             |6/10              |No       |
+|5Gb Club            |http://5gb.club/                              |5 Gb              |100 Gb           |6/10              |Yes      |
+|CGI WebHost         |https://cgiwebhost.com/                       |1 Gb              |5 Gb             |6/10              |No       |
 
 
 More comming soon™ !
