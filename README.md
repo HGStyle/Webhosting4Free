@@ -42,5 +42,6 @@ Redirects:
 |UKHost4u            |https://ukhost4u.com/free-website-hosting-uk/ |10 Gb/Go          |256 Mb/Mo        |3/10              |Unknown  |
 |AeonFree            |https://aeonfree.com/                         |5 Gb/Go           |Unlimited        |5/10              |Yes      |
 |FreeHosting         |https://freehosting.com/                      |10 Gb/Go          |Unlimited        |5/10              |Unknown  |
+|J77.US              |http://j77.us/                                |7777 Mb/Mo        |77777 Mo/Mb      |6/10              |Yes      |
 
 More comming soon™ !
