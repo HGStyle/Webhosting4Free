@@ -47,6 +47,9 @@ If its written "unknown", this is unknown for now (because no one tested).
 |TekCities           |https://tekcities.com/                        |1 Gb/Go           |5 Gb/Go          |6/10              |No       |
 |TitanHost           |https://titanhost.net/                        |5 Gb/Go           |Unlimited        |6/10              |Yes      |
 |uHostAll            |https://uhostall.com/                         |5 Gb/Go           |Unlimited        |6/10              |Yes      |
+|V90.US              |http://v90.us/                                |10 Gb/Go          |100 Gb/Go        |7/10              |Yes      |
+|Webhosting-For-Free |http://webhosting-for-free.com/               |100 Mb/Mo         |1 Gb/Go          |5/10              |Unknown  |
+|FreePHP             |http://freephp.buyhostnow.com/                |1 Gb/Go           |5 Gb/Go          |6/10              |No       |
 
 More comming soon™ !
 
