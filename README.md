@@ -46,6 +46,7 @@ If its written "unknown", this is unknown for now (because no one tested).
 |FnHost              |https://fnhost.org/                           |5 Gb/Go           |Unlimited        |6/10              |Yes      |
 |TekCities           |https://tekcities.com/                        |1 Gb/Go           |5 Gb/Go          |6/10              |No       |
 |TitanHost           |https://titanhost.net/                        |5 Gb/Go           |Unlimited        |6/10              |Yes      |
+|uHostAll            |https://uhostall.com/                         |5 Gb/Go           |Unlimited        |6/10              |Yes      |
 
 More comming soon™ !
 
