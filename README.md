@@ -52,7 +52,7 @@ I've made a little programm that do this !
 
 Its all in Python, so you need Python and PIP (the Python package installer).
 
-Before runing it, open a terminal and execte this command:
+Before running it, open a terminal and execte this command:
 
 ```bash
 python3 -m pip install Js2Py requests
