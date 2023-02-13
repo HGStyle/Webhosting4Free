@@ -4,11 +4,11 @@ A list of free hosting services with their caracteristics, plus if they does hav
 
 Redirects:          
 
-                       If yes, the website use a protection and bots (like GD clients in GDPSes) cannot access to the page.
-
-                       If no, everyone can access to the page.
-                       
-                       If its written "unknown", this is unknown for now (because no one tested).
+```
+If yes, the website use a protection and bots (like GD clients in GDPSes) cannot access to the page.
+If no, everyone can access to the page.
+If its written "unknown", this is unknown for now (because no one tested).
+```
                        
 
 |    Website name    |    Website URL                               |    Disk Space    |Bandwidth / month|    My rating     |Redirects|
