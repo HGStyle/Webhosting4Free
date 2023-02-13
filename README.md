@@ -42,8 +42,9 @@ If its written "unknown", this is unknown for now (because no one tested).
 |UKHost4u            |https://ukhost4u.com/free-website-hosting-uk/ |10 Gb/Go          |256 Mb/Mo        |3/10              |Unknown  |
 |AeonFree            |https://aeonfree.com/                         |5 Gb/Go           |Unlimited        |5/10              |Yes      |
 |FreeHosting         |https://freehosting.com/                      |10 Gb/Go          |Unlimited        |5/10              |Unknown  |
-|J77.US              |http://j77.us/                                |7777 Mb/Mo        |77777 Mo/Mb      |6/10              |Yes      |
+|J77.US              |http://j77.us/                                |7.777 Gb/Go       |77.777 Gb/Go     |6/10              |Yes      |
 |FnHost              |https://fnhost.org/                           |5 Gb/Go           |Unlimited        |7/10              |Yes      |
+|TekCities           |https://tekcities.com/                        |1 Gb/Go           |5 Gb/Go          |6/10              |No       |
 
 More comming soon™ !
 
