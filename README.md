@@ -56,6 +56,7 @@ If its written "unknown", this is unknown for now (because no one tested).
 |A-Host              |http://a-host.net/                            |1 Gb              |5 Gb             |6/10              |No       |
 |Free-Hosting        |https://free-hosting.org/                     |5 Gb              |Unlimited        |6/10              |Yes      |
 |iBestHosting        |http://ibesthosting.com/                      |1 Gb              |5 Gb             |6/10              |No       |
+|uHostFull           |http://uhostfull.com/                         |5 Gb              |Unlimited        |6/10              |Yes      |
 
 
 More comming soon™ !
