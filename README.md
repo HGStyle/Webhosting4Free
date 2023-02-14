@@ -54,6 +54,7 @@ If its written "unknown", this is unknown for now (because no one tested).
 |5Gb Club            |http://5gb.club/                              |5 Gb              |100 Gb           |6/10              |Yes      |
 |CGI WebHost         |https://cgiwebhost.com/                       |1 Gb              |5 Gb             |6/10              |No       |
 |A-Host              |http://a-host.net/                            |1 Gb              |5 Gb             |6/10              |No       |
+|Free-Hosting        |https://free-hosting.org/                     |5 Gb              |Unlimited        |6/10              |Yes      |
 
 
 More comming soon™ !
