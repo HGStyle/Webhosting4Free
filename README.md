@@ -53,6 +53,7 @@ If its written "unknown", this is unknown for now (because no one tested).
 |ROYAL Web Hosting   |http://royalwebhosting.net/                   |1 Gb              |5 Gb             |6/10              |No       |
 |5Gb Club            |http://5gb.club/                              |5 Gb              |100 Gb           |6/10              |Yes      |
 |CGI WebHost         |https://cgiwebhost.com/                       |1 Gb              |5 Gb             |6/10              |No       |
+|A-Host              |http://a-host.net/                            |1 Gb              |5 Gb             |6/10              |No       |
 
 
 More comming soon™ !
