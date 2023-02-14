@@ -58,6 +58,7 @@ If its written "unknown", this is unknown for now (because no one tested).
 |iBestHosting        |http://ibesthosting.com/                      |1 Gb              |5 Gb             |6/10              |No       |
 |uHostFull           |http://uhostfull.com/                         |5 Gb              |Unlimited        |6/10              |Yes      |
 |FreeSiteHosting     |http://freesitehosting.com/                   |1 Gb              |5 Gb             |6/10              |No       |
+|FreeHostPro         |http://freehostpro.com/                       |1 Gb              |5 Gb             |6/10              |No       |
 
 
 More comming soon™ !
