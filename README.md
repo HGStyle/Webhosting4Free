@@ -9,7 +9,12 @@ If yes, the website use a protection and bots (like GD clients in GDPSes) cannot
 If no, everyone can access to the page.
 If its written "unknown", this is unknown for now (because no one tested).
 ```
-                       
+
+
+## Please, help
+If you use an host and you discover that the free plan has changed, please login to GitHub, create a new issue that contain the website name, the website URL (the new one if it changed), the new disk space value with the unit (Gb or Mb, warning: Go is not equal tp Gb and Gib is not equal to Gb !) and the new bandwith space per month (still with the unit). Ill do every other things, like re-test does the host has JavaScript redirects or not and ill re-rate it if needed. You can also open an issue if an host has changed his name, his url or if it got deleted. Thanks for your help !
+
+## The list
 
 |    Website name    |    Website URL                               |    Disk Space    |Bandwidth / month|    My rating     |Redirects|
 |--------------------|----------------------------------------------|------------------|-----------------|------------------|---------|
