@@ -12,7 +12,7 @@ If its written "unknown", this is unknown for now (because no one tested).
 
 
 ## Please, help
-If you use an host and you discover that the free plan has changed, please login to GitHub, create a new issue that contain the website name, the website URL (the new one if it changed), the new disk space value with the unit (Gb or Mb, warning: Go is not equal tp Gb and Gib is not equal to Gb !) and the new bandwith space per month (still with the unit). Ill do every other things, like re-test does the host has JavaScript redirects or not and ill re-rate it if needed. You can also open an issue if an host has changed his name, his url or if it got deleted. Thanks for your help !
+If you use an host and you discover that the free plan has changed, please login to GitHub, create a new issue that contain the website name, the website URL (the new one if it changed), the new disk space value with the unit (Gb or Mb, warning: Go is not equal tp Gb and Gib is not equal to Gb !) and the new bandwith space per month (still with the unit). Ill do every other things, like re-test does the host has JavaScript redirects or not and ill re-rate it if needed. You can also open an issue if an host has changed his name, his url or if it got deleted, open an issue if you have found annother hosting free service, ill be happy to add it ! Thanks for your help !
 
 ## The list
 
@@ -65,6 +65,7 @@ If you use an host and you discover that the free plan has changed, please login
 |FreeSiteHosting     |http://freesitehosting.com/                   |1 Gb              |5 Gb             |6/10              |No       |
 |FreeHostPro         |http://freehostpro.com/                       |1 Gb              |5 Gb             |6/10              |No       |
 |FreeHostSpace       |http://freehostspace.com/                     |1 Gb              |5 Gb             |6/10              |No       |
+|FreeWebPageHost     |http://freewebpagehost.net/                   |1 Gb              |5 Gb             |6/10              |No       |
 
 
 More comming soon™ !
