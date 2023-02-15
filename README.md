@@ -67,6 +67,7 @@ If you use an host and you discover that the free plan has changed, please login
 |FreeHostSpace       |http://freehostspace.com/                     |1 Gb              |5 Gb             |6/10              |No       |
 |FreeWebPageHost     |http://freewebpagehost.net/                   |1 Gb              |5 Gb             |6/10              |No       |
 |RedWebHost          |https://redwebhost.com/                       |1 Gb              |5 Gb             |6/10              |No       |
+|WebFreeHosting      |https://webfreehosting.net/                   |1 Gb              |5 Gb             |6/10              |No       |
 
 More comming soon™ !
 
