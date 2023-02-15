@@ -69,6 +69,7 @@ If you use an host and you discover that the free plan has changed, please login
 |RedWebHost          |https://redwebhost.com/                       |1 Gb              |5 Gb             |6/10              |No       |
 |WebFreeHosting      |https://webfreehosting.net/                   |1 Gb              |5 Gb             |6/10              |No       |
 |0fees               |http://0fees.us/                              |300 Mb            |10 Gb            |5/10              |Yes      |
+|125mb               |https://125mb.com/                            |1 Gb              |5 Gb             |6/10              |No       |
 
 More comming soon™ !
 
