@@ -1,4 +1,7 @@
-import js2py, requests
+import js2py, requests, warnings
+
+# Disable tzlocal's warnings due to the fact that Js2Py uses tzlocal and Replit does not support tzlocal.get_localzone function
+warnings.filterwarnings("ignore")
 
 text = """
 BypassJSRedirects - a programm made by HGStyle
@@ -803,41 +806,12 @@ var slowAES = {
 
 """
 
-def get_cookie(url):
-	"""Get the cookie from the providen URL to get the correct document"""
-	r = requests.get(url)
-	js = r.text.split('<script>')[1].split('</script>')[0].split('location.href')[0].replace('document.cookie', 'cookie').strip()
-	c = str(js2py.eval_js(slowAES + js))
-	return {c.split('=')[0]: '='.join(c.split('=')[1:])}
-
-def detect_jsredirects(url):
-	"""Detect is there is any JS redirect"""
-	try:
-		r = requests.get(url)
-	except Exception as e:
-		return str(e)
-	if r.status_code != 200:
-		return "Status Code: " + str(r.status_code)
-	if "This site requires Javascript to work, please enable Javascript in your browser or use a browser with Javascript support" in r.text:
-		return True
-	else:
-		return False
-
-if __name__ == "__main__":
-	print(text)
-	while True:
-		url = input('Enter an URL here (CTRL+C to quit): ')
-		if not(url.startswith('http://')) or not(url.startswith('https://')):
-			url = 'http://' + url
-		if detect_jsredirects(url):
-			print('JS Redirects were detected ! Bypassing them...')
-			cookie = get_cookie(url)
-			print('Got cookie, sending request...')
-			r = requests.get(url, cookies=cookie)
-		else:
-			print('No JS redirects were detected...')
-			r = requests.get(url)
-		print('Got response with status code ' + str(r.status_code) + '...')
-		print('Response text: ')
-		print(r.text)
-			
+def bypassJSredirects(method, url, headers, data):
+  """Bypass JS redirects if any."""
+  r = requests.request(method.upper(), url, headers=headers, data=data)
+  if "This site requires Javascript to work, please enable Javascript in your browser or use a browser with Javascript support" in r.text:
+    js = r.text.split('<script>')[1].split('</script>')[0].split('location.href')[0].replace('document.cookie', 'cookie').strip()
+    c = str(js2py.eval_js(slowAES + js))
+    cookies = {c.split('=')[0]: '='.join(c.split('=')[1:])}
+    r = requests.request(method.upper(), url, headers=headers, data=data, cookies=cookies)
+  return r
