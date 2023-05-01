@@ -79,8 +79,22 @@ I've made a little programm that do this !
 
 Its all in Python, so you need Python and PIP (the Python package installer).
 
-Before running it, open a terminal and execte this command:
+Before using it, open a terminal and execte this command:
 
 ```bash
 python3 -m pip install Js2Py requests
 ```
+
+To use it, download it in your Python programm folder, then edit your Python programm to add:
+
+```python
+import bypassJSredirects
+```
+
+To use it, do:
+
+```python
+bypassJSredirects.bypassJSredirects('method', 'url', {"headername": "headervalue"}, {"dataname": "datavalue"})
+```
+
+It will return a `requests.Response` object, so you can access the response easily.
