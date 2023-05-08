@@ -16,10 +16,10 @@ If you use an host and you discover that the free plan has changed, please login
 
 ## The list
 
+LAST CHANGE: Removed 7m.pl and 5v.pl because 7m.pl is now paid and 5v.pl is only for Poland users.
+
 |    Website name    |    Website URL                               |    Disk Space    |Bandwidth / month|    My rating     |Redirects|
 |--------------------|----------------------------------------------|------------------|-----------------|------------------|---------|
-|7mPl(No longer free)|https://7m.pl/                                |3 Gb              |Unlimited        |2/10              |No       |
-|5vPl (Poland only)  |https://5v.pl/                                |3 Gb              |Unlimited        |3/10              |No       |
 |FreeHostingEU       |https://www.freehostingeu.com/                |200 Mb            |4 Gb             |4/10              |No       |
 |EOHost              |https://eohost.com/                           |1 Gb              |5 Gb             |5/10              |No       |
 |ByetHost            |https://byet.host/                            |1 Gb              |50 Gb            |6/10              |Yes      |
