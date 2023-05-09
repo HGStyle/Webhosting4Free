@@ -2,7 +2,7 @@
 
 A list of free hosting services with their caracteristics, plus if they does have any JavaScript protection from bots. (only JavaScript protections, not CloudFlare or others protections !)
 
-MOVING TO A BLOG: This is gonna be moved to a new WordPress blog at [the official Webhosting4Free's blog](https://webhosting4free.data.blog/)
+(Im no longer moving to a blog this will be still here since GitHub and Markdown is more simple than WordPress for me and my poor PC xD)
 
 Redirects:          
 
