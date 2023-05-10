@@ -2,8 +2,6 @@
 
 A list of free hosting services with their caracteristics, plus if they does have any JavaScript protection from bots. (only JavaScript protections, not CloudFlare or others protections !)
 
-(Im no longer moving to a blog this will be still here since GitHub and Markdown is more simple than WordPress for me and my poor PC xD)
-
 Redirects:          
 
 ```
