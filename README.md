@@ -10,6 +10,8 @@ If no, everyone can access to the page.
 If its written "unknown", this is unknown for now (because no one tested).
 ```
 
+About JavaScript redirections: it seems that iFastNet-based free hosting services have JavaScript redirections, they are added automatically by iFastNet on every free hosting service that they host to make API/game servers hosting impossible. Paid plans on iFastNet-based services does not have this limitation. Read <a href="https://forum.infinityfree.net/t/i-cant-create-apis-on-infinityfree-and-other-hostings-that-are-powered-by-ifastnet/76039">this InfinityFree thread</a> for more informations.
+
 
 ## Please, help
 If you use an host and you discover that the free plan has changed, please login to GitHub, create a new issue that contain the website name, the website URL (the new one if it changed), the new disk space value with the unit (Gb or Mb, warning: Go is not equal to Gb and Gib is not equal to Gb !) and the new bandwith space per month (still with the unit). Ill do every other things, like re-test does the host has JavaScript redirects or not and ill re-rate it if needed. You can also open an issue if an host has changed his name, his url or if it got deleted, open an issue if you have found annother hosting free service, ill be happy to add it ! Thanks for your help !
