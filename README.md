@@ -18,7 +18,7 @@ If you use an host and you discover that the free plan has changed, please login
 
 ## The list
 
-LAST CHANGE: Removed 7m.pl and 5v.pl because 7m.pl is now paid and 5v.pl is only for Poland users.
+LAST CHANGE: Removed Removed http://webhosting-for-free.com/ because registrations were impossible.
 
 |    Website name    |    Website URL                               |    Disk Space    |Bandwidth / month|    My rating     |Redirects|
 |--------------------|----------------------------------------------|------------------|-----------------|------------------|---------|
@@ -55,7 +55,6 @@ LAST CHANGE: Removed 7m.pl and 5v.pl because 7m.pl is now paid and 5v.pl is only
 |TitanHost           |https://titanhost.net/                        |5 Gb              |Unlimited        |6/10              |Yes      |
 |uHostAll            |https://uhostall.com/                         |5 Gb              |Unlimited        |6/10              |Yes      |
 |V90.US              |http://v90.us/                                |10 Gb             |100 Gb           |7/10              |Yes      |
-|Webhosting-For-Free |http://webhosting-for-free.com/               |100 Mb            |1 Gb             |5/10              |Unknown  |
 |FreePHP             |http://freephp.buyhostnow.com/                |1 Gb              |5 Gb             |6/10              |No       |
 |ROYAL Web Hosting   |http://royalwebhosting.net/                   |1 Gb              |5 Gb             |6/10              |No       |
 |5Gb Club            |http://5gb.club/                              |5 Gb              |100 Gb           |6/10              |Yes      |
