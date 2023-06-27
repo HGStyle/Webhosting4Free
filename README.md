@@ -2,13 +2,11 @@
 
 A list of free hosting services with their caracteristics, plus if they does have any JavaScript protection from bots. (only JavaScript protections, not CloudFlare or others protections !)
 
-Redirects:          
+# Redirects
 
-```
 If yes, the website use a protection and bots (like GD clients in GDPSes) cannot access to the page.
 If no, everyone can access to the page.
 If its written "unknown", this is unknown for now (because no one tested).
-```
 
 About JavaScript redirections: it seems that iFastNet-based free hosting services have JavaScript redirections, they are added automatically by iFastNet on every free hosting service that they host to make API/game servers hosting impossible. Paid plans on iFastNet-based services does not have this limitation. Read <a href="https://forum.infinityfree.net/t/i-cant-create-apis-on-infinityfree-and-other-hostings-that-are-powered-by-ifastnet/76039">this InfinityFree thread</a> for more informations.
 
