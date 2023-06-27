@@ -2,7 +2,7 @@
 
 A list of free hosting services with their caracteristics, plus if they does have any JavaScript protection from bots. (only JavaScript protections, not CloudFlare or others protections !)
 
-# Redirects
+## Redirects
 
 If yes, the website use a protection and bots (like GD clients in GDPSes) cannot access to the page.
 If no, everyone can access to the page.
