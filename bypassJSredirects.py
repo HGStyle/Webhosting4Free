@@ -1,5 +1,7 @@
 import js2py, requests, warnings
 
+# CODE RELEASED UNDER MIT LICENSE, SEE: https://hgstyle.mit-license.org/2024
+
 # Disable tzlocal's warnings due to the fact that Js2Py uses tzlocal and Replit does not support tzlocal.get_localzone function
 warnings.filterwarnings("ignore")
 
