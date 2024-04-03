@@ -2,7 +2,7 @@
 
 A list of free hosting services with their caracteristics, plus if they does have any JavaScript protection from bots. (only JavaScript protections, not CloudFlare or others protections !)
 
-# Webhosting4Free © 2023 by HGStyle is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (code released under [MIT License](https://hgstyle.mit-license.org/2024))
+# Webhosting4Free © 2023-endofthetime by HGStyle is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (code released under [MIT License](https://hgstyle.mit-license.org/2024))
 
 ## Redirects
 
