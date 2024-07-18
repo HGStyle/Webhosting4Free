@@ -32,7 +32,7 @@ LAST CHANGE: Added 141412 from DimisAIO
 |InfinityFree        |https://infinityfree.net/                     |5 Gb              |Unlimited        |7/10              |Yes      |
 |000Webhost          |https://000webhost.com/                       |300 Mb            |3 Gb             |5/10              |No       |
 |FreeHostingNoAds    |https://freehostingnoads.net/                 |1 Gb              |5 Gb             |5/10              |No       |
-|~~1-ws (dead)       |http://1-ws.com/                              |10 Gb             |Unlimited        |6/10              |Yes~~    |
+|---1-ws (dead)      |http://1-ws.com/                              |10 Gb             |Unlimited        |6/10              |Yes---   |
 |AlwaysData          |https://alwaysdata.com/                       |100 Mb            |Unlimited        |7/10              |No       |
 |5hark               |http://5hark.net/                             |10 Gb             |100 Gb           |6/10              |Yes      |
 |AcesHost            |http://aceshost.com/                          |1 Gb              |5 Gb             |6/10              |No       |
