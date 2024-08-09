@@ -18,7 +18,7 @@ If you use an host and you discover that the free plan has changed, please login
 
 ## The list
 
-LAST CHANGE: Added 141412 from DimisAIO
+LAST CHANGE: Removed 5gb.club as they are closing
 
 |    Website name    |    Website URL                               |    Disk Space    |Bandwidth / month|    My rating     |Redirects|
 |--------------------|----------------------------------------------|------------------|-----------------|------------------|---------|
@@ -57,7 +57,6 @@ LAST CHANGE: Added 141412 from DimisAIO
 |V90.US              |http://v90.us/                                |10 Gb             |100 Gb           |7/10              |Yes      |
 |FreePHP             |http://freephp.buyhostnow.com/                |1 Gb              |5 Gb             |6/10              |No       |
 |ROYAL Web Hosting   |http://royalwebhosting.net/                   |1 Gb              |5 Gb             |6/10              |No       |
-|5Gb Club            |http://5gb.club/                              |5 Gb              |100 Gb           |6/10              |Yes      |
 |CGI WebHost         |https://cgiwebhost.com/                       |1 Gb              |5 Gb             |6/10              |No       |
 |A-Host              |http://a-host.net/                            |1 Gb              |5 Gb             |6/10              |No       |
 |Free-Hosting        |https://free-hosting.org/                     |5 Gb              |Unlimited        |6/10              |Yes      |
