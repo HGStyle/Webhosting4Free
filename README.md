@@ -30,7 +30,6 @@ LAST CHANGE: Removed 5gb.club as they are closing
 |PlanetHoster        |https://planethoster.com/World-Lite           |750 Mb            |Unlimited        |4/10              |Unknown  |
 |AwardSpace          |https://awardspace.com/                       |1 Gb              |5 Gb             |5/10              |No       |
 |InfinityFree        |https://infinityfree.net/                     |5 Gb              |Unlimited        |7/10              |Yes      |
-|000Webhost          |https://000webhost.com/                       |300 Mb            |3 Gb             |5/10              |No       |
 |FreeHostingNoAds    |https://freehostingnoads.net/                 |1 Gb              |5 Gb             |5/10              |No       |
 |AlwaysData          |https://alwaysdata.com/                       |100 Mb            |Unlimited        |7/10              |No       |
 |5hark               |http://5hark.net/                             |10 Gb             |100 Gb           |6/10              |Yes      |
