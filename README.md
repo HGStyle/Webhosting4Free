@@ -18,7 +18,7 @@ If you use an host and you discover that the free plan has changed, please login
 
 ## The list
 
-LAST CHANGE: Added MercureHosting
+LAST CHANGE: Added WebHostMost
 
 |    Website name    |    Website URL                               |    Disk Space    |Bandwidth / month|    My rating     |JS/Redirects|
 |--------------------|----------------------------------------------|------------------|-----------------|------------------|------------|
@@ -70,6 +70,7 @@ LAST CHANGE: Added MercureHosting
 |WebFreeHosting      |https://webfreehosting.net/                   |1 Gb              |5 Gb             |6/10              |No          |
 |0fees               |http://0fees.us/                              |300 Mb            |10 Gb            |5/10              |Yes         |
 |125mb               |https://125mb.com/                            |1 Gb              |5 Gb             |6/10              |No          |
+|WebHostMost         |https://webhostmost.com/free-web-hosting      |125 Mb            |Unlimited        |5/10              |No          |
 
 More comming soon™ !
 
