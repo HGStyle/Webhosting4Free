@@ -18,12 +18,12 @@ If you use an host and you discover that the free plan has changed, please login
 
 ## The list
 
-LAST CHANGE: Added WebHostMost
+LAST CHANGE: Added x10hosting
 
 |    Website name    |    Website URL                               |    Disk Space    |Bandwidth / month|    My rating     |JS/Redirects|
 |--------------------|----------------------------------------------|------------------|-----------------|------------------|------------|
 |141412              |https://141412.xyz/      (go to their Discord)|400 Mb            |Unlimited        |6/10              |No          |
-|MercureHosting      |https://mercurehosting.com/                   |5 Gb              |Unlimited        |8/10              |No          |
+|x10hosting      |https://x10hosting.com/                   |500 Mb          |Unlimited        |6/10              |No          |
 |FreeHostingEU       |https://www.freehostingeu.com/                |200 Mb            |4 Gb             |4/10              |No          |
 |EOHost              |https://eohost.com/                           |1 Gb              |5 Gb             |5/10              |No          |
 |ByetHost            |https://byet.host/                            |1 Gb              |50 Gb            |6/10              |Yes         |
